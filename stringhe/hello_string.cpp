@@ -6,6 +6,7 @@ int main() {
 
 	cout << s << endl ;
 	cout << "Dimensione della stringa: " << s.size() << endl;
+	cout << "Lunghezza della stringa: " << s.length() << endl;
 
 
 }
